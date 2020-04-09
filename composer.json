@@ -22,9 +22,9 @@
     "require-dev": {
     },
     "autoload": {
-    "psr-4": {
-        "Cooperl\\Database\\DB2\\": "src/"
-    }
+        "psr-4": {
+            "Cooperl\\Database\\DB2\\": "src/"
+        }
     },
     "extra": {
         "laravel": {
